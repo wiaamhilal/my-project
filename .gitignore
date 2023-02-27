@@ -1,0 +1,4 @@
+*.log
+!vip.log
+mode-packs/
+ig.nor
